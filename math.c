@@ -1,4 +1,6 @@
-/* Funciones matematicas para nuestro codigo */
+/* Funciones matematicas para nuestro codigo
+ * Línea para no alterar el codigo
+ */
 
 #include "math.h"
 
