@@ -15,3 +15,10 @@ double doubleDouble(double a){
     }
     return a*2
 }
+
+double doubleFloat(float a){
+    if(a > MAX_FLOAT){
+        return -1;
+    }
+    return a*2
+}
